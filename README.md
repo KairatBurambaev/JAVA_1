@@ -5,5 +5,4 @@
 Вывести все простые числа от 1 до 1000
 
 # java_task_3
-
 Реализовать простой калькулятор Scanner sc = ... int a = sc.nextLine int b = sc.nextLine
